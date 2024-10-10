@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+}
+
+.funButtonsGrid{
+
+}
